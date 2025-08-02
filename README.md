@@ -126,7 +126,28 @@ Manakula Vinayagar Institute of Technology, Puducherry
 </p>
 
 ---
+### 💻 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/agilesh304?theme=dark&font=Fira+Code&ext=heatmap" />
+</p>
 
+---
+
+### 🧠 HackerRank Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <br/>
+  <a href="https://www.hackerrank.com/profile/agilesh304" target="_blank">
+    <img src="https://github-readme-hackerrank-stats.vercel.app/api/hackerrank?username=agilesh304&theme=dark" />
+  </a>
+</p>
+
+---
+
+### ⚔️ CodeChef Stats
+<p align="center">
+  <img src="https://cp-logo.vercel.app/codechef/agilesh304?logo=true&dark=true" />
+</p>
 ## 💬 Fun Fact
 
 > "I break down problems like code — one block at a time."
