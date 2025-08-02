@@ -133,20 +133,24 @@ Manakula Vinayagar Institute of Technology, Puducherry
 
 ---
 
-### 🧠 HackerRank Stats
+### 🧠 HackerRank Highlights
 <p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  <br/>
   <a href="https://www.hackerrank.com/profile/agilesh304" target="_blank">
-    <img src="https://github-readme-hackerrank-stats.vercel.app/api/hackerrank?username=agilesh304&theme=dark" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
 
+- ✅ **Python (Basic) Certificate** – [View Certificate](https://www.hackerrank.com/certificates)
+- 💡 Solving problems in Python, SQL & AI challenges
+- 🎯 Focused on domains: Problem Solving, Python, and SQL
+
 ---
 
-### ⚔️ CodeChef Stats
+### ⚔️ CodeChef Activity
 <p align="center">
-  <img src="https://cp-logo.vercel.app/codechef/agilesh304?logo=true&dark=true" />
+  <a href="https://www.codechef.com/users/agilesh304" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
 </p>
 ## 💬 Fun Fact
 
