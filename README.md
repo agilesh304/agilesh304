@@ -115,7 +115,7 @@ Manakula Vinayagar Institute of Technology, Puducherry
 
 ## 📄 View My Resume
 
-[📄 Resume PDF (Google Drive)](https://drive.google.com/file/d/17AtPJxanYXD_xrovk2dUwPNpjUFtmOMn/view?usp=drivesdk)
+[📄 Resume PDF (Google Drive)](https://drive.google.com/file/d/1AAdEL44gZCD8KIBhjduZ1yZLEyx3opca/view?usp=drivesdk)
 
 ---
 
