@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3D8FEF&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Agilesh+S!" />
 </h1>
 
-<h3 align="center">AI/ML Enthusiast | Problem Solver | Full-Stack Developer</h3>
+<h3 align="center">AI/ML Enthusiast | Problem Solver | Aspiring Data Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agilesh-s-252b5a290">
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 | Category | Achievement |
 |----------|------------|
 | **Education** | CGPA: 9.07 (Till 3rd Sem) |
-| **Coding** | JEE Mains 2023 AIR: 345,919 |
+| **Tests** | JEE Mains 2023 AIR: 345,919 |
 | **Certifications** | AWS ML Foundations • HackerRank Python |
 | **Internships** | Microsoft (Gold Prediction) • Shell India (AQI Prediction) |
 
