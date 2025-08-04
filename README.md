@@ -57,23 +57,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/agilesh304/agilesh304/main/assets/ai-robot.gif" width="300" align="right" alt="AI Robot">
 </div>
 
-```python
-class Agilesh:
-    def __init__(self):
-        self.name = "Agilesh S"
-        self.role = "AI/ML Developer"
-        self.education = "B.Tech in AI & ML"
-        self.university = "Manakula Vinayagar Institute of Technology"
-        self.current_year = "3rd Year"
-        self.cgpa = 9.07
-        self.interests = ["Machine Learning", "Full-Stack Dev", "Automation"]
-        self.skills = ["Python", "React", "ML Algorithms", "Data Analysis"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect :)")
-        
-me = Agilesh()
- ```
+<pre lang="python"><code> class Agilesh: def __init__(self): self.name = "Agilesh S" self.role = "AI/ML Developer" self.education = "B.Tech in AI & ML" self.university = "Manakula Vinayagar Institute of Technology" self.current_year = "3rd Year" self.cgpa = 9.07 self.interests = ["Machine Learning", "Full-Stack Dev", "Automation"] self.skills = ["Python", "React", "ML Algorithms", "Data Analysis"] def say_hi(self): print("Thanks for dropping by! Let's connect :)") me = Agilesh() </code></pre>
 
 
 
@@ -111,42 +95,175 @@ me = Agilesh()
 <!-- Animated Divider -->
 <img src="https://raw.githubusercontent.com/agilesh304/agilesh304/main/assets/divider.gif" width="100%"/>
 
+<div align="center">
 ## 🏆 Achievements & Certifications
 
-<div align="center">
-  
-```diff
-+ AWS Academy Graduate – Machine Learning Foundations
-+ HackerRank Python (Basic) Certified
-! JEE Mains 2023 AIR: 345,919
-# Microsoft Internship - Gold Prediction Model
-# Shell India Internship - AQI Prediction
- ```
-<!-- Coding Activity Visualization -->
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<!-- Certification Card with Verification -->
+<div style="position: relative; background: linear-gradient(145deg, #2d3748, #1a202c); padding: 20px; border-radius: 12px; width: 280px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color: #38b2ac; margin-top: 0;">🏅 Certifications</h3>
+  <ul style="text-align: left; padding-left: 20px;">
+    <li onclick="window.open('https://www.credly.com/badges/637de4d3-466e-4c0d-a669-7d4bc33cee88/public_url','_blank')" style="cursor: pointer; transition: all 0.3s;" onmouseover="this.style.color='#4ade80'" onmouseout="this.style.color='inherit'">
+      <span style="color: #4ade80;">✓</span> AWS Academy ML Foundations <small>(Click to verify)</small>
+    </li>
+    <li onclick="window.open('https://www.hackerrank.com/certificates','_blank')" style="cursor: pointer; transition: all 0.3s;" onmouseover="this.style.color='#4ade80'" onmouseout="this.style.color='inherit'">
+      <span style="color: #4ade80;">✓</span> HackerRank Python (Basic) <small>(Click to verify)</small>
+    </li>
+  </ul>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" onclick="window.open('https://aws.amazon.com/training/','_blank')" style="cursor: pointer;">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" onclick="window.open('https://www.hackerrank.com/profile/agilesh304','_blank')" style="cursor: pointer;">
+  </div>
+  <div id="cert-tooltip" style="position: absolute; background: #1a202c; padding: 5px 10px; border-radius: 5px; bottom: -30px; left: 50%; transform: translateX(-50%); opacity: 0; transition: opacity 0.3s;">Click items to verify</div>
+</div>
+
+<!-- Academic Achievements with Progress Bar -->
+<div style="background: linear-gradient(145deg, #2d3748, #1a202c); padding: 20px; border-radius: 12px; width: 280px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color: #38b2ac; margin-top: 0;">📚 Academic</h3>
+  <ul style="text-align: left; padding-left: 20px;">
+    <li>
+      <span style="color: #fbbf24;">★</span> JEE Mains 2023
+      <div style="background: #4a5568; height: 8px; border-radius: 4px; margin: 5px 0 10px 0;">
+        <div style="background: linear-gradient(90deg, #f59e0b, #fbbf24); width: 75%; height: 100%; border-radius: 4px;"></div>
+      </div>
+      <div style="display: flex; justify-content: space-between; font-size: 12px;">
+        <span>AIR: 345,919</span>
+        <span>Top 12%</span>
+      </div>
+    </li>
+    <li>
+      <span style="color: #fbbf24;">★</span> Current CGPA
+      <div style="background: #4a5568; height: 8px; border-radius: 4px; margin: 5px 0 10px 0;">
+        <div style="background: linear-gradient(90deg, #10b981, #34d399); width: 90.7%; height: 100%; border-radius: 4px;"></div>
+      </div>
+      <div style="text-align: center; font-size: 12px;">9.07/10.0</div>
+    </li>
+  </ul>
+</div>
+
+<!-- Internship Highlights with Expandable Details -->
+<div style="background: linear-gradient(145deg, #2d3748, #1a202c); padding: 20px; border-radius: 12px; width: 280px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color: #38b2ac; margin-top: 0;">💼 Internships</h3>
+  <div style="text-align: left;">
+    <div onclick="this.querySelector('.internship-details').style.display = this.querySelector('.internship-details').style.display === 'none' ? 'block' : 'none'" style="cursor: pointer; padding: 8px 0; border-bottom: 1px solid #4a5568;">
+      <span style="color: #60a5fa;">▹</span> Microsoft (Gold Prediction)
+      <div class="internship-details" style="display: none; padding: 10px 0 0 15px; font-size: 14px;">
+        • R² = 0.98 accuracy<br>
+        • Random Forest model<br>
+        • <a href="https://github.com/agilesh304/Gold-Price-Prediction" style="color: #60a5fa; text-decoration: none;">View Project →</a>
+      </div>
+    </div>
+    <div onclick="this.querySelector('.internship-details').style.display = this.querySelector('.internship-details').style.display === 'none' ? 'block' : 'none'" style="cursor: pointer; padding: 8px 0; border-bottom: 1px solid #4a5568;">
+      <span style="color: #60a5fa;">▹</span> Shell India (AQI Prediction)
+      <div class="internship-details" style="display: none; padding: 10px 0 0 15px; font-size: 14px;">
+        • Air Quality Index model<br>
+        • Data preprocessing & visualization<br>
+        • <a href="https://github.com/agilesh304/AICTE-AQI-Model-Project-Assignment" style="color: #60a5fa; text-decoration: none;">View Project →</a>
+      </div>
+    </div>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+    <img src="https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=flat" alt="ML">
+    <img src="https://img.shields.io/badge/-Data%20Science-06B6D4?style=flat" alt="Data Science">
+  </div>
+</div>
+
+</div>
+
+<script>
+// Simple tooltip functionality
+const certCard = document.querySelector('div[style*="position: relative"]');
+if (certCard) {
+  certCard.addEventListener('mouseenter', () => {
+    document.getElementById('cert-tooltip').style.opacity = '1';
+  });
+  certCard.addEventListener('mouseleave', () => {
+    document.getElementById('cert-tooltip').style.opacity = '0';
+  });
+}
+</script>
 ## 📊 Coding Activity
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 
-### 💻 LeetCode Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/agilesh304?theme=nightowl&font=Fira%20Code&ext=contest&ext=heatmap&border_radius=12&radius=10)](https://leetcode.com/u/agilesh304/)
+### 🏆 Competitive Programming
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px;">
 
-### 🧑‍💻 GitHub Contributions
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agilesh304&theme=react-dark&area=true&hide_border=true&custom_title=My%20Commit%20Activity&radius=8)](https://github.com/agilesh304)
-
-### 🏆 HackerRank Stats
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-hackerrank-stats.vercel.app/api?username=agilesh304&theme=dark&show_icons=true&border_radius=10" alt="HackerRank Stats" width="45%">
-  <img src="https://github-readme-hackerrank-badges.vercel.app/api/badges?username=agilesh304&theme=dark&border_radius=10" alt="HackerRank Badges" width="45%">
+<!-- LeetCode Card with Heatmap -->
+<div style="background: #1e293b; padding: 20px; border-radius: 12px; width: 100%; max-width: 600px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+    <h3 style="margin: 0; color: #f59e0b; display: flex; align-items: center;">
+      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="24" style="margin-right: 10px;"> LeetCode Progress
+    </h3>
+    <a href="https://leetcode.com/u/agilesh304/" target="_blank" style="text-decoration: none;">
+      <div style="background: #3b82f6; color: white; padding: 5px 10px; border-radius: 6px; font-size: 14px; display: flex; align-items: center;">
+        View Profile <span style="margin-left: 5px;">→</span>
+      </div>
+    </a>
+  </div>
+  <img src="https://leetcard.jacoblin.cool/agilesh304?theme=nightowl&font=Fira%20Code&ext=contest&ext=heatmap&border_radius=12&radius=10" alt="LeetCode Stats" style="width: 100%;">
 </div>
 
-### ⚔️ CodeChef Activity
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://codechef-card.vercel.app/api?username=agilesh304&theme=dark&border_radius=10" alt="CodeChef Stats" width="45%">
-  <img src="https://cp-rating.vercel.app/api/codechef?username=agilesh304&theme=dark&border_radius=10" alt="CodeChef Rating" width="45%">
+<!-- CodeChef Card with Rating Progress -->
+<div style="background: #1e293b; padding: 20px; border-radius: 12px; width: 100%; max-width: 600px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+    <h3 style="margin: 0; color: #f59e0b; display: flex; align-items: center;">
+      <img src="https://cdn.codechef.com/images/cc-logo.svg" width="24" style="margin-right: 10px;"> CodeChef Activity
+    </h3>
+    <a href="https://www.codechef.com/users/agilesh304" target="_blank" style="text-decoration: none;">
+      <div style="background: #3b82f6; color: white; padding: 5px 10px; border-radius: 6px; font-size: 14px; display: flex; align-items: center;">
+        View Profile <span style="margin-left: 5px;">→</span>
+      </div>
+    </a>
+  </div>
+  <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+    <img src="https://codechef-card.vercel.app/api?username=agilesh304&theme=dark&border_radius=10" alt="CodeChef Stats" style="flex: 1; min-width: 250px;">
+    <img src="https://cp-rating.vercel.app/api/codechef?username=agilesh304&theme=dark&border_radius=10" alt="CodeChef Rating" style="flex: 1; min-width: 250px;">
+  </div>
 </div>
 
 </div>
 
+### 👨‍💻 Development Activity
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<!-- GitHub Contributions Card -->
+<div style="background: #1e293b; padding: 20px; border-radius: 12px; width: 100%; max-width: 600px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+    <h3 style="margin: 0; color: #f59e0b; display: flex; align-items: center;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" style="margin-right: 10px;"> GitHub Contributions
+    </h3>
+    <a href="https://github.com/agilesh304" target="_blank" style="text-decoration: none;">
+      <div style="background: #3b82f6; color: white; padding: 5px 10px; border-radius: 6px; font-size: 14px; display: flex; align-items: center;">
+        View Profile <span style="margin-left: 5px;">→</span>
+      </div>
+    </a>
+  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agilesh304&theme=react-dark&area=true&hide_border=true&custom_title=My%20Commit%20Activity&radius=8" alt="GitHub Activity Graph" style="width: 100%;">
+</div>
+
+<!-- HackerRank Card with Badges -->
+<div style="background: #1e293b; padding: 20px; border-radius: 12px; width: 100%; max-width: 600px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+    <h3 style="margin: 0; color: #f59e0b; display: flex; align-items: center;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="24" style="margin-right: 10px;"> HackerRank Stats
+    </h3>
+    <a href="https://www.hackerrank.com/profile/agilesh304" target="_blank" style="text-decoration: none;">
+      <div style="background: #3b82f6; color: white; padding: 5px 10px; border-radius: 6px; font-size: 14px; display: flex; align-items: center;">
+        View Profile <span style="margin-left: 5px;">→</span>
+      </div>
+    </a>
+  </div>
+  <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+    <img src="https://github-readme-hackerrank-stats.vercel.app/api?username=agilesh304&theme=dark&show_icons=true&border_radius=10" alt="HackerRank Stats" style="flex: 1; min-width: 250px;">
+    <img src="https://github-readme-hackerrank-badges.vercel.app/api/badges?username=agilesh304&theme=dark&border_radius=10" alt="HackerRank Badges" style="flex: 1; min-width: 250px;">
+  </div>
+</div>
+
+</div>
+
+</div>
 <!-- Contact Section with Animation -->
 ## 📫 Let's Connect
 
